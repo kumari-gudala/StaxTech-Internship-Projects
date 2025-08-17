@@ -33,7 +33,7 @@ A sleek and responsive To-Do List built with **HTML**, **CSS**, and **JavaScript
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/23a5ce3c-379d-4a2b-80d1-2f2bb5cede56" /> 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/430bccda-896e-4aef-975a-68589097eda8" />
 
-2b-80d1-2f2bb5cede56" />
+
 
 ---
 
